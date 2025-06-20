@@ -1,2 +1,11 @@
-./venv
-./venv1
+.venv/
+.claudeenv/
+__pycache__
+.venv1/
+.env
+.venv2/
+.server/query_history.json
+.client/query_history.json
+.query_history.json
+.user_data/user_data.json 
+user_data/user_data.json
